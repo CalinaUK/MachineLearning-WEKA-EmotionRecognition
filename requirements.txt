@@ -1,0 +1,12 @@
+cycler==0.10.0
+javabridge==1.0.18
+kiwisolver==1.0.1
+linereader==1.0.0
+matplotlib==3.0.0
+numpy==1.15.1
+pandas==0.23.4
+pyparsing==2.2.1
+python-dateutil==2.7.3
+python-weka-wrapper3==0.1.5
+pytz==2018.7
+six==1.11.0

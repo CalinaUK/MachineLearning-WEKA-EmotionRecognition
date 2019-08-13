@@ -1,0 +1,24 @@
+// python weka wrapper3 install guide
+http://fracpete.github.io/python-weka-wrapper3/install.html
+// How to install and create venv
+https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
+
+
+// How to activate
+On macOS and Linux:
+source venv/bin/activate
+
+On Windows:
+.\venv\Scripts\activate
+
+// Check to it's activated
+On macOS and Linux:
+which python
+should return: ".../venv/bin/python"
+
+On Windows:
+where python
+should return: ".../venv/bin/python.exe"
+
+// How to deactivate
+deactivate
